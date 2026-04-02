@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m a Full Stack Engineer passionate about building scalable, secure, and user-focused applications. I enjoy working across the stack — from crafting responsive frontends to designing efficient backend systems and APIs.<br><br>I’m always learning, exploring new technologies, and improving my problem-solving skills. Open to collaboration and exciting tech opportunities 🚀
+Hi 👋 I’m a AI Augmented Full Stack Engineer passionate about building scalable, secure, and user-focused applications. I enjoy working across the stack — from crafting responsive frontends to designing efficient backend systems and APIs.<br><br>I’m always learning, exploring new technologies, and improving my problem-solving skills. Open to collaboration and exciting tech opportunities 🚀
 
 
 ## 🌐 Socials:
